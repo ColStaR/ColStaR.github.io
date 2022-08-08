@@ -14,6 +14,9 @@ Shit was cool
 ### The Water Tables
 Water
 
+### Analysis of Crime and Justice in Cook County
+![Crime and Justice Presentation Picture](/images/crime_and_justice_pic.JPG)
+Crime, yo.
 
 ## Other Projects
 
