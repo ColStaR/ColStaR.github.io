@@ -5,16 +5,18 @@ Welcome to Ryan S. Wong's Github portfolio page. This is a collection of many of
 ## Table of Contents
 
 ## Data Science and Analytics Projects
-[More Information about Data Science and Analytics Projects Available Here!](https://colstar.github.io/data-science-projects)
+[More Information about Data Science and Analytics Projects Available Here!](https://colstar.github.io/data-science-and-analytics-projects)
+
 ### Layers and Livelihoods
 ![Layers and Livelihoods Presentation Picture](/images/layers-and-livelihoods-presentation.JPG)
-Shit was cool
+Description:
 
 ### Can We Optimize World Happiness?
 ![Can We Optimize World Happiness Presentation Picture](/images/can-we-optimize-happiness-presentation.JPG)
 Shit was cool
 
 ## Data Engineering and Visualization Projects
+[More Information about Data Engineering and Visualization Projects Available Here!](https://colstar.github.io/data-engineering-and-visualization-projects)
 
 ### The Water Tables
 ![Precipitation and Drought Severity Visualization Picture](/images/precipitation-and-drought-severity-pic.JPG)
@@ -22,6 +24,10 @@ Water
 
 ### Analysis of Crime and Justice in Cook County
 ![Crime and Justice Presentation Picture](/images/crime_and_justice_pic.JPG)
+Crime, yo.
+
+### Data Cleaning and Analysis of Pathogenic Genetic Mutations from ClinVar Data
+![Crime and Justice Presentation Picture](/images/pathogenic-clinvar-picture.JPG)
 Crime, yo.
 
 ## Other Projects
