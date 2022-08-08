@@ -5,11 +5,9 @@ Welcome to Ryan S. Wong's Github portfolio page. This is a collection of many of
 ## Table of Contents
 
 ## Data Science and Analytics Projects
-[More Information about Data Science and Analytics Projects Available Here!](https://colstar.github.io/data-science-and-analytics-projects)
 
 ### Layers and Livelihoods
 ![Layers and Livelihoods Presentation Picture](/images/layers-and-livelihoods-presentation.JPG)
-- Repo Link: [GitHub Repo](https://github.com/ColStaR/w207-project-layers-and-livelihoods)
 - Presentation Link: [Presentation](https://docs.google.com/presentation/d/1mpuqvt_XXIqVkPB2vAviR5UIh7YNPU97P0lcCBPmxLI/edit#slide=id.gf48440531a_0_0)
 - Tools Used:
   - Python
@@ -30,7 +28,6 @@ Utilized an HR analytics data set on Kaggle with over 21,000 responses, created 
 
 ### Can We Optimize World Happiness?
 ![Can We Optimize World Happiness Presentation Picture](/images/can-we-optimize-happiness-presentation.JPG)
-- Repo Link: [GitHub Repo](https://github.com/mids-w203/spring-2022-lab2-team-opal)
 - Final Report Link: [Report](https://github.com/mids-w203/spring-2022-lab2-team-opal/blob/main/reports/lab_2.pdf)
 - Presentation Link: [Presentation](https://github.com/mids-w203/spring-2022-lab2-team-opal/blob/main/reports/Lab%202%20-%20World%20Happiness%20Report%20Presentation.pdf)
 - Tools Used:
@@ -42,11 +39,9 @@ Utilized an HR analytics data set on Kaggle with over 21,000 responses, created 
 A linear regression model was applied to data from over 149 countries and evaluated with a coefficient T-Test at a 95% confidence level in order to determine whether a county's wealth had a statistically significant influence in its citizens' happiness.
 
 ## Data Engineering and Visualization Projects
-[More Information about Data Engineering and Visualization Projects Available Here!](https://colstar.github.io/data-engineering-and-visualization-projects)
 
 ### The Water Tables
 ![Precipitation and Drought Severity Visualization Picture](/images/precipitation-and-drought-severity-pic.JPG)
-- Repo Link: [GitHub Repo]()
 - Presentation Link: [Presentation]()
 - Tools Used:
   - Python
@@ -61,7 +56,6 @@ Drought data from the National Drought Mitigation Center and precipitation data 
 
 ### Analysis of Crime and Justice in Cook County
 ![Crime and Justice Presentation Picture](/images/crime_and_justice_pic.JPG)
-- Repo Link: [GitHub Repo](https://github.com/UC-Berkeley-I-School/Project2_Cui_Emery_Wong)
 - Final Report Link: [Report](https://github.com/UC-Berkeley-I-School/Project2_Cui_Emery_Wong/blob/main/final_report/Team%200%20-%20Final%20Project%20Report.pdf)
 - Presentation Link: [Presentation](https://github.com/UC-Berkeley-I-School/Project2_Cui_Emery_Wong/blob/main/final_report/Team%200%20-%20Final%20Project%20Presentation.pdf)
 - Tools Used:
@@ -74,7 +68,6 @@ The court sentencing data was analyzed to determine how the demographics of the 
 
 ### Business Strategy for Expanding Acme Gourmet Meals
 ![Crime and Justice Presentation Picture](/images/expanding-agm-presentation.JPG)
-- Repo Link: [GitHub Repo](https://github.com/mohamedelghetany/AGM_expansion)
 - Final Report Link: [Report](https://github.com/mohamedelghetany/AGM_expansion/blob/project/reports/Project_3_Report.ipynb)
 - Presentation Link: [Presentation](https://github.com/mohamedelghetany/AGM_expansion/blob/project/presentation/Project_3_Presentation.pdf)
 - Tools Used:
