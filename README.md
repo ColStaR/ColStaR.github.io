@@ -115,4 +115,4 @@ Created a game suggestion tool that utilized Steam's SteamFriends API. The progr
 
 ## About Me
 
-Ryan S. Wong is a graduate student studying Data Engineering at UC Berkeley who is working to build his skills and grow his portfolio of work. Specializing in data pipelines, he is eager to immerse himself in new data sets with the goal of making the data accessible, optimized, and useful towards addressing real-world problems. He has the most work experience in the public education space, but is eager to explore other industries and data sets such as medicine, defense, and video games.
+Ryan S. Wong (ColStaR on GitHub) is a graduate student studying Data Engineering at UC Berkeley who is working to build his skills and grow his portfolio of work. Specializing in data pipelines, he is eager to immerse himself in new data sets with the goal of making the data accessible, optimized, and useful towards addressing real-world problems. He has the most work experience in the public education space, but is eager to explore other industries and data sets such as medicine, defense, and video games.
