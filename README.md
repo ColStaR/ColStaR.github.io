@@ -5,7 +5,7 @@ Welcome to Ryan S. Wong's Github portfolio page. This is a collection of many of
 ## Table of Contents
 
 ## Data Science and Analytics Projects
-[More Information about Data Science and Analytics Projects Available Here!]([url](https://colstar.github.io/data-science-projects))
+[More Information about Data Science and Analytics Projects Available Here!](https://colstar.github.io/data-science-projects)
 ### Layers and Livelihoods
 ![Layers and Livelihoods Presentation Picture](/images/layers-and-livelihoods-presentation.JPG)
 Shit was cool
