@@ -4,14 +4,20 @@ Welcome to Ryan S. Wong's Github portfolio page. This is a collection of many of
 
 ## Table of Contents
 
-## Data Science Projects
+## Data Science and Analytics Projects
 
 ### Layers and Livelihoods
+![Layers and Livelihoods Presentation Picture](/images/layers-and-livelihoods-presentation.JPG)
+Shit was cool
+
+### 
+![Can We Optimize Happiness Presentation Picture](/images/can-we-optimize-happiness-presentation.JPG)
 Shit was cool
 
 ## Data Engineering and Visualization Projects
 
 ### The Water Tables
+![Precipitation and Drought Severity Visualization Picture](/images/precipitation-and-drought-severity-pic.JPG)
 Water
 
 ### Analysis of Crime and Justice in Cook County
