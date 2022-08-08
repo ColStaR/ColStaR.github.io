@@ -8,7 +8,7 @@ Welcome to Ryan S. Wong's Github portfolio page. This is a collection of many of
 
 ### Layers and Livelihoods
 ![Layers and Livelihoods Presentation Picture](/images/layers-and-livelihoods-presentation.JPG)
-- Presentation Link: [Presentation](https://docs.google.com/presentation/d/1mpuqvt_XXIqVkPB2vAviR5UIh7YNPU97P0lcCBPmxLI/edit#slide=id.gf48440531a_0_0)
+- Presentation Link: [Presentation](/presentations/layers-and-livelihoods-presentation.pdf)
 - Tools Used:
   - Python
   - SciKit Learn
@@ -28,8 +28,8 @@ Utilized an HR analytics data set on Kaggle with over 21,000 responses, created 
 
 ### Can We Optimize World Happiness?
 ![Can We Optimize World Happiness Presentation Picture](/images/can-we-optimize-happiness-presentation.JPG)
-- Final Report Link: [Report](https://github.com/mids-w203/spring-2022-lab2-team-opal/blob/main/reports/lab_2.pdf)
-- Presentation Link: [Presentation](https://github.com/mids-w203/spring-2022-lab2-team-opal/blob/main/reports/Lab%202%20-%20World%20Happiness%20Report%20Presentation.pdf)
+- Final Report Link: [Report](/reports/world-happiness-report.pdf)
+- Presentation Link: [Presentation](/presentations/world-happiness-presentation.pdf)
 - Tools Used:
   - R
   - Python
@@ -42,7 +42,7 @@ A linear regression model was applied to data from over 149 countries and evalua
 
 ### The Water Tables
 ![Precipitation and Drought Severity Visualization Picture](/images/precipitation-and-drought-severity-pic.JPG)
-- Presentation Link: [Presentation]()
+- Presentation Link: [Presentation](/presentations/precipitation-and-drought-severity-presentation.pdf)
 - Tools Used:
   - Python
   - Tableau
@@ -56,8 +56,8 @@ Drought data from the National Drought Mitigation Center and precipitation data 
 
 ### Analysis of Crime and Justice in Cook County
 ![Crime and Justice Presentation Picture](/images/crime_and_justice_pic.JPG)
-- Final Report Link: [Report](https://github.com/UC-Berkeley-I-School/Project2_Cui_Emery_Wong/blob/main/final_report/Team%200%20-%20Final%20Project%20Report.pdf)
-- Presentation Link: [Presentation](https://github.com/UC-Berkeley-I-School/Project2_Cui_Emery_Wong/blob/main/final_report/Team%200%20-%20Final%20Project%20Presentation.pdf)
+- Final Report Link: [Report](/reports/crime-and-justice-report.pdf)
+- Presentation Link: [Presentation](/presentations/crime-and-justice-presentation.pdf)
 - Tools Used:
   - Python
   - MatPlotLib
@@ -68,8 +68,8 @@ The court sentencing data was analyzed to determine how the demographics of the 
 
 ### Business Strategy for Expanding Acme Gourmet Meals
 ![Crime and Justice Presentation Picture](/images/expanding-agm-presentation.JPG)
-- Final Report Link: [Report](https://github.com/mohamedelghetany/AGM_expansion/blob/project/reports/Project_3_Report.ipynb)
-- Presentation Link: [Presentation](https://github.com/mohamedelghetany/AGM_expansion/blob/project/presentation/Project_3_Presentation.pdf)
+- Final Report Link: [Report](/reports/expand-agm-report.ipynb)
+- Presentation Link: [Presentation](/presentations/expanding-agm-presentation.pdf)
 - Tools Used:
   - Python
   - PostgreSQL
