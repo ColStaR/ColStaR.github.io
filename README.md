@@ -1,8 +1,8 @@
 # Ryan S. Wong's GitHub Portolio
 
-Welcome to Ryan S. Wong's Github portfolio page. This is a collection of many of the technical projects that I have been involved with, whether as a gradute student at UC Berkeley or as part of a personal project. Each entry below will have a brief description of the project in question along with any supporting documents to go along with them.
-
 {:.no_toc}
+
+Welcome to Ryan S. Wong's Github portfolio page. This is a collection of many of the technical projects that I have been involved with, whether as a gradute student at UC Berkeley or as part of a personal project. Each entry below will have a brief description of the project in question along with any supporting documents to go along with them.
 
 ## Table of Contents
 
@@ -10,6 +10,7 @@ Welcome to Ryan S. Wong's Github portfolio page. This is a collection of many of
 
 1. The generated Toc will be an ordered list
 {:toc}
+
 ## Data Science and Analytics Projects
 
 ### Layers and Livelihoods
