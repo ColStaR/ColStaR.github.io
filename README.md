@@ -68,7 +68,7 @@ The court sentencing data was analyzed to determine how the demographics of the 
 
 ### Business Strategy for Expanding Acme Gourmet Meals
 ![Crime and Justice Presentation Picture](/images/expanding-agm-presentation.JPG)
-- Final Report Link: [Report](/reports/expand-agm-report.ipynb)
+- Final Report Link: [Report](https://github.com/ColStaR/ColStaR.github.io/blob/main/reports/expand-agm-report.ipynb)
 - Presentation Link: [Presentation](/presentations/expanding-agm-presentation.pdf)
 - Tools Used:
   - Python
