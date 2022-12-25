@@ -49,7 +49,7 @@ A linear regression model was applied to data from over 149 countries and evalua
 
 ### Allay Airway Delays - Creating a Machine Learning Model to Predict Flight Delays
 ![Allway Airway Delays Picture](/images/AllayAirwayDelaysTitle.PNG)
-- Research Paper Link: [Presentation](https://github.com/ColStaR/ColStaR.github.io/blob/main/reports/Allay_Airway_Delays_Final_Research_Paper.ipynb)
+- Research Paper Link: [Report](https://github.com/ColStaR/ColStaR.github.io/blob/main/reports/Allay_Airway_Delays_Final_Research_Paper.ipynb)
 - Presentation Link: [Presentation](/presentations/Allay_Airway_Delays_Final_Presentation.pdf)
 - Tools Used:
   - Apache Spark
