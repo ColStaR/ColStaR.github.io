@@ -47,6 +47,19 @@ A linear regression model was applied to data from over 149 countries and evalua
 
 ## Data Engineering and Visualization Projects
 
+### Allay Airway Delays
+![Allway Airway Delays Picture](/images/AllayAirwayDelaysTitle.PNG)
+- Presentation Link: [Presentation](/presentations/precipitation-and-drought-severity-presentation.pdf)
+- Tools Used:
+  - Python
+  - Tableau
+- [The website created for the project can be found here!](https://groups.ischool.berkeley.edu/the_water_tables/#)
+- [The visualization can be found here on Tableau Public!](https://public.tableau.com/app/profile/ryan7300/viz/TableauBook1_v3/Dashboard5?)
+
+**A data engineering and visualization project that combined precipitation and drought data for counties across the United States in order to illustrate trends in climate change from 2000 to 2016.** 
+
+Drought data from the National Drought Mitigation Center and precipitation data from the Center for Disease Control was combined, cleaned, and feature engineered to create an interactive visualization using Tableau.
+
 ### The Water Tables
 ![Precipitation and Drought Severity Visualization Picture](/images/precipitation-and-drought-severity-pic.JPG)
 - Presentation Link: [Presentation](/presentations/precipitation-and-drought-severity-presentation.pdf)
