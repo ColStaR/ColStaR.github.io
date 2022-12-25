@@ -47,18 +47,20 @@ A linear regression model was applied to data from over 149 countries and evalua
 
 ## Data Engineering and Visualization Projects
 
-### Allay Airway Delays
+### Allay Airway Delays - Creating a Machine Learning Model to Predict Flight Delays
 ![Allway Airway Delays Picture](/images/AllayAirwayDelaysTitle.PNG)
-- Presentation Link: [Presentation](/presentations/precipitation-and-drought-severity-presentation.pdf)
+- Research Paper Link: [Presentation](/reports/Allay_Airway_Delays_Final_Research_Paper.ipynb)
+- Presentation Link: [Presentation](/presentations/Allay_Airway_Delays_Final_Presentation.pdf)
 - Tools Used:
-  - Python
-  - Tableau
-- [The website created for the project can be found here!](https://groups.ischool.berkeley.edu/the_water_tables/#)
-- [The visualization can be found here on Tableau Public!](https://public.tableau.com/app/profile/ryan7300/viz/TableauBook1_v3/Dashboard5?)
+  - Apache Spark
+  - DataBricks
+  - Microsoft Azure (Cluster Computing and Blob Storage)
+  - MLLib
+  - Pandas
 
-**A data engineering and visualization project that combined precipitation and drought data for counties across the United States in order to illustrate trends in climate change from 2000 to 2016.** 
+**A data engineering project utilizing distributed systems that created a data pipeline to train and validate machine learning models on time-series data from 2015-2021 in order to create an optimal model that predicts flight delays for users.** 
 
-Drought data from the National Drought Mitigation Center and precipitation data from the Center for Disease Control was combined, cleaned, and feature engineered to create an interactive visualization using Tableau.
+Over 100 GB's worth of domestic flight and weather data from 2015 - 2021 was cleaned, joined, and transformed with a number of novel and highly predictive engineered features. This data was then leveraged to create a model that most accurately predicted what flights would be delayed by 15 minutes. Due to the size of the data sets in question, a distributed system using Apache Spark on an Azure compute cluster was utilized to complete the computations in a timely manner. Due to the complexities of time series data, sophisticated processes had to be utilized or created from scratch, such as the custom Blocking Time Series Cross Validation method that allowed the distributed systems to cross validate time series data properly.
 
 ### The Water Tables
 ![Precipitation and Drought Severity Visualization Picture](/images/precipitation-and-drought-severity-pic.JPG)
