@@ -2,9 +2,13 @@
 
 # Ryan S. Wong's GitHub Portolio
 
-Welcome to Ryan S. Wong's Github portfolio page. This is a collection of many of the technical projects that I have been involved with, whether as a gradute student at UC Berkeley or as part of a personal project. Each entry below will have a brief description of the project in question along with any supporting documents to go along with them.
+Welcome to Ryan S. Wong's Github portfolio page! This is a collection of many of the technical projects that I have been involved with, whether as a gradute student at UC Berkeley or as part of a personal project. Each entry below will have a brief description of the project in question along with any supporting links and documents to go along with them.
 
 {:.no_toc}
+
+## About Me
+
+My name is **Ryan S. Wong** (ColStaR on GitHub), and I am a data engineer and software developer who is working to build his skills and grow his portfolio of work. Having earned my master's degree in Information and Data Science at UC Berkeley with a specialty in data engineering, I am eager to immerse myself in new data sets with the goal of making the data accessible, optimized, and useful towards addressing real-world problems. I have spent over 5 years in the public education space, but I am eager to explore other industries and data sets, such as medicine, defense, and video games, in addition to working on an expanding number of personal projects.
 
 ## Table of Contents
 
@@ -150,7 +154,3 @@ Worked as a contract front-end software developer for the Fin-Tech startup compa
   - Steam and SteamFriends API
 
 Created a game suggestion tool that utilized Steam's SteamFriends API. The program collected and compared the Steam game libraries of two of my friends, appended data of the games we shared to find which games could be played cooperatively together, and suggested a list of games that we could play. This tool allowed us to quickly and easily figure out what Steam games we could play together while hanging out.
-
-## About Me
-
-**Ryan S. Wong** (ColStaR on GitHub) is a graduate student studying Data Engineering at UC Berkeley who is working to build his skills and grow his portfolio of work. Specializing in data pipelines, he is eager to immerse himself in new data sets with the goal of making the data accessible, optimized, and useful towards addressing real-world problems. He has the most work experience in the public education space, but is eager to explore other industries and data sets such as medicine, defense, and video games.
