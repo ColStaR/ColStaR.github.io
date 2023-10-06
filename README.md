@@ -13,6 +13,29 @@ Welcome to Ryan S. Wong's Github portfolio page. This is a collection of many of
 
 ## Data Science and Analytics Projects
 
+### Predicting Turnover through Machine Learning
+![Predicting Turnover through Machine Learning Picture](/images/predicting-turnover-with-machine-learning.png)
+- Live Web Application: [Web App Link](https://apps-summer.ischool.berkeley.edu/EmployeeTurnoverPredictionsApp/)
+- Web Application Demonstration Video: [Web App Demo Video](https://apps-summer.ischool.berkeley.edu/EmployeeTurnoverPredictionsApp/static/predicting_turnover_through_machine_learning_demo_video_2.mp4)
+- Presentation Link: [Presentation](/presentations/predictiong-turnover-through-machine-learning-final-presentation.pdf)
+- Tools Used:
+  - Python
+  - Amazon Web Services (EC2, EKS)
+  - Jupyter Labs
+  - Docker
+  - FlaskAPI
+  - Web Hosting via Dedicated Server
+  - Machine Learning Models:
+    - Logistic Regression
+    - Random Forest
+    - Gradient Boosted Trees
+    - Linear Support Vector Machines
+    - Nonlinear Support Vector Machines
+
+**A publicly-available web application for Human Resources teams that provides machine learning-enabled predictive analytics insights for predicting which employees are at risk of voluntary turnover.** 
+
+My capstone project for my UC Berkeley MIDS program, I served as project lead for a team of 5 other students as we created a web application that utilizes machine learning to predict employee turnover. Constructed from the ground up, this web application utilizes a custom end-to-end data pipeline that takes in uploaded employee data and provides a dashboard of advanced and actionable analytics; this dashboard includes a time-series chart for historical turnover trends, a chart forecasting turnover rates over time, chi-squared testing for turnover metric significance testing per feature, feature importance tables, and a table of raw data pairing employee data with the machine learning model's turnover prediction. This 10-week project was entirely self-directed, but assisted with guidance and input from UC Berkeley instructors and the Vice President of Human Resources at Workday, Dylan Gandossy. The Predicting Turnover through Machine Learning project was the culmination of my skills and experience with UC Berkeley's MIDS program, and the web app that was created can provide tangible value to any human resources team interested in tackling the issue of employee turnover.
+
 ### Layers and Livelihoods
 ![Layers and Livelihoods Presentation Picture](/images/layers-and-livelihoods-presentation.JPG)
 - Presentation Link: [Presentation](/presentations/layers-and-livelihoods-presentation.pdf)
